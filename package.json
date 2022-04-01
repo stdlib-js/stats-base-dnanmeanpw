@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/stats-base-dnanmeanpw",
+  "version": "0.0.0",
+  "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using pairwise summation.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dnanmeanpw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "average",
+    "avg",
+    "mean",
+    "arithmetic mean",
+    "central tendency",
+    "pairwise",
+    "pw",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float64",
+    "double",
+    "float64array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
