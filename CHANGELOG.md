@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`b78e8ba`](https://github.com/stdlib-js/stdlib/commit/b78e8ba6bdd1b97192878d9b780260a67a46be4d) - **docs:** update function description in JS benchmarks in `stats/base/*` [(#5135)](https://github.com/stdlib-js/stdlib/pull/5135) _(by Aayush Khanna)_
 -   [`93c884d`](https://github.com/stdlib-js/stdlib/commit/93c884d677c3c79c24a451a0f1badf45d8b6ee16) - **bench:** update `NaN` generation in `stats/base/*` [(#5044)](https://github.com/stdlib-js/stdlib/pull/5044) _(by Aayush Khanna)_
 -   [`be4a2ee`](https://github.com/stdlib-js/stdlib/commit/be4a2ee6c7b47dc85b09f6b8678c98b46b48aa33) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmeanpw` [(#4763)](https://github.com/stdlib-js/stdlib/pull/4763) _(by Aayush Khanna, Athan Reines, Muhammad Haris)_
